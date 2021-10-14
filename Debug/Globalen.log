@@ -1,0 +1,13 @@
+﻿  Globalen.cpp
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\ColorDbl.h(10,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Triangle.h(33,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Triangle.h(46,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Sphere.h(27,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Sphere.h(37,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Sphere.h(43,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MarcusPC\source\repos\Globalen\Globalen\Light.h(10,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Globalen.vcxproj -> C:\Users\MarcusPC\source\repos\Globalen\Debug\Globalen.exe
